@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Divjot-Sharma
-- 👀 I’m a knowing Java C++ Python Rust   
-- 🌱 I’m currently learning Web Development ...
-- 💞️ I’m looking to collaborate on Game Development
+- 👀 I’m a knowing Java, C++, Python, Tkinter ,Database Mangement , HTML and CSS. 
+- 🌱 I’m currently learning Competitive Programming ...
+- 💞️ I’m looking to collaborate on Web Development.
 - 📫 Reach me at -> divjot.2050@gmail.com
 
 
